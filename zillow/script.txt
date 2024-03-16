@@ -1,0 +1,12 @@
+In matter of minutes zillow scraper can scrape real estate data from zillow
+It can scrape data like property address, price, square footage, number of bedrooms, number of bathrooms, etc.(Detail information is in the description below)
+It can scrape properties that are for rent, for sale, and recently sold properties.
+It can scrape the zillow map by the URL.
+It can scrape data from multiple pages and save the data in a CSV file.
+All you have to provide is the URL of the zillow page you want to scrape and the scraper will do the rest.
+
+From the property, the scraper can scrape the following data:
+Zpid of Listing, Home Status(for sale, for rent, sold), Thumbnail of Listing, URL of Listing, Listing Price, Zestimate, RentZestimate, 
+Address (Street, City, State, Zipcode), Number of Beds, Number of Baths, Sqft Area, Days on Zillow, Broker Name, Photos of House.
+
+If you need further detailed data, I can also scrape that for you by scraping one more layer in the property page.

@@ -1,0 +1,509 @@
+Scraping Page  1
+POSITION: Front-end Developer GenAI _@_ COMPANY: ABN AMRO
+POSITION: ASP.NET back-end framework developer _@_ COMPANY: ChipSoft
+POSITION: Medior Front-End Developer _@_ COMPANY: ABN AMRO
+POSITION: Back-end java developer _@_ COMPANY: Rijkswaterstaat
+POSITION: Front-end angular developer _@_ COMPANY: Rijkswaterstaat
+POSITION: Fullstack Medior Java Developer _@_ COMPANY: EIFFEL
+POSITION: Passionate Java / Kotlin Developer _@_ COMPANY: Sourcelabs B.V.
+POSITION: Backend Developer _@_ COMPANY: FeelGroup B.V.
+POSITION: Full Stack Developer _@_ COMPANY: Floyd & Hamilton
+POSITION: Software Developer - ﹝BackEnd, python, golang ﹞ _@_ COMPANY: BlueThrone
+POSITION: Java/Kotlin Developer _@_ COMPANY: EIFFEL
+POSITION: Java Developer _@_ COMPANY: Axiom Software Solutions
+POSITION: Backend Developer _@_ COMPANY: Feel Robotics
+POSITION: Backend Developer _@_ COMPANY: DPG Media
+POSITION: Backend developer _@_ COMPANY: Lightbase
+Scraping Page  2
+POSITION: Software Developer .Net _@_ COMPANY: Omnia Retail
+POSITION: Software Developer, IT Application Internship _@_ COMPANY: Tesla
+POSITION: Back-end developer _@_ COMPANY: Immer Nederland
+POSITION: Fullstack Developer _@_ COMPANY: KPN
+POSITION: Software developer _@_ COMPANY: Ksyos
+POSITION: Software Developer _@_ COMPANY: Groendus
+POSITION: Java/Kotlin Developer _@_ COMPANY: EIFFEL
+POSITION: Software Developer _@_ COMPANY: Antropotech
+POSITION: Java Developer - Charging-as-a-Service _@_ COMPANY: Pluq
+POSITION: Full Stack Developer _@_ COMPANY: VodafoneZiggo
+POSITION: Java Full Stack Developer _@_ COMPANY: ITSync
+POSITION: Node.JS Software Developer _@_ COMPANY: BridgeFund
+POSITION: Fullstack ontwikkelaar MES IT/OT - Haarlem _@_ COMPANY: NS
+POSITION: Java developer _@_ COMPANY: 42
+POSITION: Backend developer _@_ COMPANY: The Selection Lab
+Scraping Page  3
+POSITION: Java Developer _@_ COMPANY: S&P Global
+POSITION: Back-end Developer _@_ COMPANY: Gemeente Haarlem
+POSITION: Software Developer .NET _@_ COMPANY: VX Company
+POSITION: Frontend developer (m/v/x) _@_ COMPANY: NPO
+POSITION: Java/Kotlin Developer _@_ COMPANY: EIFFEL
+POSITION: Java Developer - Java 11 _@_ COMPANY: Deltaclass Technology
+POSITION: Frontend developer _@_ COMPANY: Lightbase
+POSITION: Backend Developer - Medical Records System _@_ COMPANY: Gerimedica
+POSITION: Back-end Developer _@_ COMPANY: Envision Pharma Group
+POSITION: Stagiair Back-end development _@_ COMPANY: Reyez!
+POSITION: Front-end Developer (HTML, Javascript, Vue.js) _@_ COMPANY: DEXTER
+POSITION: Backend Developer _@_ COMPANY: Efficiency Online
+POSITION: Software developer _@_ COMPANY: Digital Chefs
+POSITION: Stagiair(e) (Lowcode) Front-end developer _@_ COMPANY: CS Digital Media
+POSITION: Backend Developer _@_ COMPANY: KatanaPIM
+Scraping Page  4
+POSITION: Front-end developer _@_ COMPANY: Immer Nederland
+POSITION: Junior java developer _@_ COMPANY: De Volksbank
+POSITION: Backend PHP Developer _@_ COMPANY: CODE24 BV
+POSITION: Fullstack Developer _@_ COMPANY: BOOSTR Agency
+POSITION: (junior) Back-end Developer _@_ COMPANY: Black Sheepz Media
+POSITION: Backend Developer C# (Entry-level) _@_ COMPANY: Inpact Solutions
+POSITION: Java Developer _@_ COMPANY: Eagle Eye Networks Inc
+POSITION: Front-end Developer (Angular) _@_ COMPANY: PNO Consultants
+POSITION: Front-end developer _@_ COMPANY: Arts en Zorg
+POSITION: Python Developer / AWS _@_ COMPANY: Amsterdam Standard
+POSITION: Java Developer _@_ COMPANY: Adesso Nederland
+POSITION: Software Developer, IT Applciation _@_ COMPANY: Tesla
+POSITION: Fullstack Developer _@_ COMPANY: TimeEdit AB
+POSITION: Back-end developer _@_ COMPANY: Handpicked agencies B.V.
+POSITION: C++ Software Developer - Amsterdam- Global Quant Trading Firm _@_ COMPANY: Oxford Knight
+Scraping Page  5
+POSITION: Python Developer _@_ COMPANY: HeatTransformers BV
+POSITION: Java Developer _@_ COMPANY: Agap2 - NL
+POSITION: Front end Developer _@_ COMPANY: TheNewJob
+POSITION: Backend Developer _@_ COMPANY: Smartphonehoesjes.nl
+POSITION: Backend developer planningsapplicatie - Utrecht _@_ COMPANY: NS
+POSITION: Back-end Developer (ICT) _@_ COMPANY: Universiteit van Amsterdam
+POSITION: Full Stack Developer _@_ COMPANY: Webfluencer
+POSITION: PHP Backend developer (junior/medior) _@_ COMPANY: Beeldr
+POSITION: Front-end developer (Wordpress) _@_ COMPANY: Wij zijn MEO
+POSITION: Backend Developer (Medior) _@_ COMPANY: CloudSuite B.V.
+POSITION: Back-end Developer(s) _@_ COMPANY: Zintouch
+POSITION: Full Stack Developer _@_ COMPANY: Tiro Partners
+POSITION: Java developer _@_ COMPANY: DHL
+POSITION: Fullstack developer focus back-end _@_ COMPANY: MisterGreen Products B.V.
+POSITION: Front-end Ontwikkelaar _@_ COMPANY: Hiltermann Lease
+Scraping Page  6
+POSITION: Backend developer _@_ COMPANY: Enrise
+POSITION: Full Stack Developer _@_ COMPANY: Producthero
+POSITION: Front-end developer _@_ COMPANY: Dharma Media
+POSITION: Full-stack programmeur / ontwikkelaar _@_ COMPANY: Advanza B.V.
+POSITION: PHP Back-end developer (Symfony4 / Docke / API’s / React / Vagrant / Vallet) _@_ COMPANY: Apollo IT
+POSITION: Stagiair Front-end development _@_ COMPANY: Reyez!
+POSITION: Back End Developer _@_ COMPANY: Atabix
+POSITION: Fullstack Developer _@_ COMPANY: Feel Robotics
+POSITION: Java developer _@_ COMPANY: Triodos Bank N.V.
+POSITION: Full Stack Developer _@_ COMPANY: ConsumentenClaim
+POSITION: Backend developer _@_ COMPANY: AWI Software
+POSITION: Lead Software Developer, Services Engineering Squad _@_ COMPANY: Jonar
+POSITION: Medior Backend Developer (PHP) _@_ COMPANY: Happy Horizon
+POSITION: Full Stack Marketer _@_ COMPANY: Glomotra GMBH
+POSITION: Full Stack Developer _@_ COMPANY: Harman International
+Scraping Page  7
+POSITION: Backend PHP Developer _@_ COMPANY: CODE24 BV
+POSITION: Full Stack Developer _@_ COMPANY: VodafoneZiggo
+POSITION: Software Developer _@_ COMPANY: BOSMAN VAN ZAAL
+POSITION: Software Developer _@_ COMPANY: ASOF B.V.
+POSITION: Vacature Software Developer (Mobile, Cloud, PC) _@_ COMPANY: inepro
+POSITION: Front End/Back End Developer _@_ COMPANY: The Sharing Group
+POSITION: Fullstack Developer _@_ COMPANY: AIVD
+POSITION: Front-end developer _@_ COMPANY: InnSpire
+POSITION: FULL-STACK DEVELOPER | UTRECHT (ENGLISH) _@_ COMPANY: Fullwood JOZ
+POSITION: AEM Frontend Developer _@_ COMPANY: Axiom Software Solutions
+POSITION: Back-end Developer _@_ COMPANY: Moose
+POSITION: Cloud Software Developer _@_ COMPANY: ChipSoft BV
+POSITION: Fullstack Developer _@_ COMPANY: Fish on Fire
+POSITION: IAM Java Developer _@_ COMPANY: Eagle Eye Networks Inc
+POSITION: Java Developer _@_ COMPANY: Khonraad
+Scraping Page  8
+POSITION: (Medior) Python Developer _@_ COMPANY: Northpool
+POSITION: Java Developer _@_ COMPANY: Goede Doelen Loterijen
+POSITION: Front-end lead _@_ COMPANY: Informaat
+POSITION: Fullstack developer (ICT) _@_ COMPANY: Universiteit van Amsterdam
+POSITION: Backend Developer _@_ COMPANY: The Selection Lab
+POSITION: Full Stack Developer _@_ COMPANY: Atermes
+POSITION: Front-end Developer _@_ COMPANY: Instruct
+POSITION: Afstudeerstage back-end developer _@_ COMPANY: Maxdoro
+POSITION: Backend Developer _@_ COMPANY: Miniclip
+POSITION: Golang Software Developer (IoT) _@_ COMPANY: Sensys Gatso Group AB
+POSITION: Java/Angular Full stack Developer, NATO Secret _@_ COMPANY: Business Integra Inc
+POSITION: Full stack Unity Game Developer _@_ COMPANY: RBL Labs
+POSITION: Fullstack .Net Developer Kinderopvang _@_ COMPANY: SDB Groep
+POSITION: Lead Front-End Developer _@_ COMPANY: Atabix
+POSITION: Full Stack Ontwikkelaar _@_ COMPANY: CLB
+Scraping Page  9
+POSITION: .NET Software Developer (C#) _@_ COMPANY: Vicrea Solutions
+POSITION: Frontend Software Consultant _@_ COMPANY: Xebia Group
+POSITION: Specialist Java Developer _@_ COMPANY: Ledch
+POSITION: Backend Developer _@_ COMPANY: FIQAS Software
+POSITION: Software Ontwikkelaar _@_ COMPANY: High Voltage Engineering
+POSITION: Software Developer C# _@_ COMPANY: Techniquals
+POSITION: .NET Software Developer (C#) _@_ COMPANY: Vicrea
+POSITION: JAVA DEVELOPER (SPRING, JAVA 11, KAFKA) _@_ COMPANY: Qualogy
+POSITION: Software Developer C++ _@_ COMPANY: InControl
+POSITION: Back-end Scala Developer _@_ COMPANY: CareXS
+POSITION: Back-end Developer _@_ COMPANY: Linx IT Solutions
+POSITION: Software Developer (C++/Java/Python)- World-Leading Prop Trading Fund _@_ COMPANY: Oxford Knight
+POSITION: Backend Developer _@_ COMPANY: D-Drops World
+POSITION: Software Developer met een missie _@_ COMPANY: Aquemini
+POSITION: Java developer _@_ COMPANY: xxllnc
+Scraping Page  10
+POSITION: .NET Software Developer _@_ COMPANY: SPS Commerce
+POSITION: Back-end Developer _@_ COMPANY: Email Enzo
+POSITION: Frontend Software Consultant _@_ COMPANY: Xebia USA
+POSITION: Backend Developer﹝python, golang﹞ _@_ COMPANY: BlueThrone
+POSITION: Java / Kotlin Developer (Levering) _@_ COMPANY: Energie Data Services Nederland
+POSITION: Medior Python Developer _@_ COMPANY: AutoGrowth
+POSITION: BI Specialist / Front end Power BI _@_ COMPANY: FM Group
+POSITION: Web Frontend Team Lead _@_ COMPANY: Move Agency Netherlands
+POSITION: Embedded Software Developer _@_ COMPANY: SWARCO Group
+POSITION: Full Stack Developer _@_ COMPANY: The Sharing Group
+POSITION: Python Developer _@_ COMPANY: Ordina
+POSITION: Full Stack Developer _@_ COMPANY: Betty Blocks
+POSITION: Full Stack Developer _@_ COMPANY: Advanza B.V.
+POSITION: Front-end developer _@_ COMPANY: Hipex
+POSITION: Backend Developer (PHP, Laravel) - Monetisation (EdTech) _@_ COMPANY: Studocu
+Scraping Page  11
+POSITION: Software ontwikkelaar (Full-stack developer, Medior) bij Eaglescience Software _@_ COMPANY: Eaglescience
+POSITION: Web Frontend Team Lead _@_ COMPANY: Move agency
+POSITION: Frontend Ontwikkelaar _@_ COMPANY: Agap2 - NL
+POSITION: WordPress backend developer _@_ COMPANY: Yard Digital Agency
+POSITION: PHP Backend Developer (Laravel en/of Symfony) _@_ COMPANY: DEXTER
+POSITION: React Frontend Developer _@_ COMPANY: The Sharing Group
+POSITION: Back-end web developer (Java) _@_ COMPANY: PNO Consultants
+POSITION: Python Developer - Secure Systems - 6 month contract _@_ COMPANY: Talenting
+POSITION: Gedreven Front-end developer _@_ COMPANY: Basic Orange
+POSITION: Back-end PHP Developer Medior _@_ COMPANY: Dharma Media
+POSITION: Back-End  Developer _@_ COMPANY: Orangebeard
+POSITION: Stage Wordpress/Frontend developer/design _@_ COMPANY: Pursuit B.V.
+POSITION: Front-end Developer _@_ COMPANY: Waternet
+POSITION: Software Developer _@_ COMPANY: SPS COMMERCE
+POSITION: Python (Backend) ontwikkelaar _@_ COMPANY: Codebeez
+Scraping Page  12
+POSITION: Ervaren Front End Developer _@_ COMPANY: De Volksbank
+POSITION: Full Stack Developer _@_ COMPANY: Brink's Incorporated
+POSITION: Fullstack developer _@_ COMPANY: Smart FMS
+POSITION: DevOps / Backend developer _@_ COMPANY: Bookarang
+POSITION: Java Developer _@_ COMPANY: Atos
+POSITION: Front-end Angular developer _@_ COMPANY: Genetics
+POSITION: Software Developer Simulation – Rail _@_ COMPANY: InControl
+POSITION: PHP Backend Developer _@_ COMPANY: The Sharing Group
+POSITION: Traineeship Front-end _@_ COMPANY: Sogeti
+POSITION: Java Developer _@_ COMPANY: InnSpire
+POSITION: Full Stack Developer Motorsports _@_ COMPANY: Mylaps
+POSITION: Back-end Developer _@_ COMPANY: Reyez!
+POSITION: Frontend developer _@_ COMPANY: Interim Only
+POSITION: Front-end developer _@_ COMPANY: Brainial BV
+POSITION: Lead front-end developer _@_ COMPANY: KATE Innovations
+Scraping Page  13
+POSITION: Stage Frontend Development _@_ COMPANY: Active Collective
+POSITION: Cloud Software Ontwikkelaar _@_ COMPANY: Rijksinstituut voor Volksgezondheid en Milieu...
+POSITION: HBO Stage Front-End Developer _@_ COMPANY: Go2People
+POSITION: Front-End Developers _@_ COMPANY: Trefi
+POSITION: Back-end developer _@_ COMPANY: miWebb
+POSITION: Medior Frontend Developer (EU) _@_ COMPANY: KLM
+POSITION: Junior Software Developer _@_ COMPANY: Scarabee
+POSITION: Front-end developer _@_ COMPANY: Arrow Recruitment
+POSITION: Open Source Software Developer _@_ COMPANY: Universiteit Utrecht
+POSITION: Python Developer _@_ COMPANY: Agap2 - NL
+POSITION: Full Stack Developer _@_ COMPANY: Capsearch
+POSITION: Frontend Developer Geo _@_ COMPANY: Ordina
+POSITION: Full Stack Java Developer (SpringBoot, Kubernetes,... _@_ COMPANY: Recruit2, Talent Acquisition Specialists
+POSITION: Lead Front-end Developer _@_ COMPANY: Böschen IT Investments B.V.
+POSITION: Backend Developer NU.nl _@_ COMPANY: DPG Media
+Scraping Page  14
+POSITION: Front-end developer _@_ COMPANY: Adesso Nederland
+POSITION: Front-end Angular developer _@_ COMPANY: de Rechtspraak
+POSITION: Python developer _@_ COMPANY: Ministerie van Justitie en Veiligheid, Justitiële...
+POSITION: Frontend developer - 40 uur - medior _@_ COMPANY: WEBUILDAPPS
+POSITION: Fullstack Developer Angular Typescript _@_ COMPANY: Royal A-ware
+POSITION: Java backend Developer _@_ COMPANY: De Volksbank
+POSITION: Fullstack Software Consultant _@_ COMPANY: Xebia Group
+POSITION: Front-end Developer _@_ COMPANY: PARKEAGLE
+POSITION: Front-end developer (Vue.js) _@_ COMPANY: Fenetre
+POSITION: Frontend Developer _@_ COMPANY: RVC BV
+POSITION: Full-stack developer _@_ COMPANY: Axians
+POSITION: Back-end development traineeship vacature _@_ COMPANY: DTT Multimedia
+POSITION: Embedded Software Developer (scale-up Noordwijk) _@_ COMPANY: HomeWizard
+POSITION: Full-stack Development _@_ COMPANY: Reyez!
+POSITION: Cloud Native Software Developer _@_ COMPANY: Xebia Group
+Scraping Page  15
+POSITION: Frontend Software developer _@_ COMPANY: TriOpSys
+POSITION: Lead Front-end developer _@_ COMPANY: 4NG
+POSITION: Full Stack Developer _@_ COMPANY: DaklaPack
+POSITION: Getalenteerde Back-End Developer _@_ COMPANY: WDD Partner in groei
+POSITION: Stagiair Front-end Developer _@_ COMPANY: Blue Current B.V.
+POSITION: Python Developer _@_ COMPANY: VikingHost
+POSITION: Full Stack Developer Acute Zorg _@_ COMPANY: Topicus
+POSITION: WordPress Developer – Backend _@_ COMPANY: 2BeFresh
+POSITION: Fullstack developer _@_ COMPANY: SMIT
+POSITION: Front-end developer vacature _@_ COMPANY: DTT Multimedia
+POSITION: Lead Front-end developer _@_ COMPANY: PossibilIT
+POSITION: Frontend Developer _@_ COMPANY: Email Enzo
+POSITION: Software Developer _@_ COMPANY: Intersolve
+POSITION: Digital (marketing) Specialist (front end) _@_ COMPANY: Saint Gobain
+POSITION: Full Stack Developer _@_ COMPANY: Pepperflow
+Scraping Page  16
+POSITION: Backend Webdeveloper (medior) _@_ COMPANY: Pursuit B.V.
+POSITION: Java/Kotlin back-end Developer (Congestie management) _@_ COMPANY: Energie Data Services Nederland
+POSITION: Fullstack developer AutoWeek _@_ COMPANY: DPG Media
+POSITION: Medior Full-Stack Developer (Laravel PHP / React) _@_ COMPANY: SOWISO
+POSITION: Java developer _@_ COMPANY: inSystems
+POSITION: PHP Backend/API Developer (Greenfield project) _@_ COMPANY: Apollo IT
+POSITION: Medior Developer back-end _@_ COMPANY: Doelbeleggen
+POSITION: Java Backend Developer _@_ COMPANY: Acorel B.V.
+POSITION: Full-stack Developer _@_ COMPANY: Realworks
+POSITION: Medior Backend Developer _@_ COMPANY: FutureWhiz
+POSITION: Vacature full stack integration developer Hoofddorp _@_ COMPANY: MyParcel
+POSITION: Softwareontwikkelaar (Junior/Medior) _@_ COMPANY: Troublefree Software
+POSITION: Front-end developer _@_ COMPANY: xel
+POSITION: Front-end developer _@_ COMPANY: Fyris Research & Data
+POSITION: Full Stack Developer _@_ COMPANY: InnSpire
+Scraping Page  17
+POSITION: Full Stack Python Developer _@_ COMPANY: H2B Consulting
+POSITION: Fullstack Developer _@_ COMPANY: Interim Only
+POSITION: .NET Software Developer _@_ COMPANY: 4DotNet
+POSITION: Backend Developer _@_ COMPANY: TradeTracker.com
+POSITION: Java Developer _@_ COMPANY: ICT Group
+POSITION: Full Stack (MERN) developer _@_ COMPANY: Under Reality
+POSITION: Back-end developer vacature _@_ COMPANY: DTT Multimedia
+POSITION: Front-end Developer _@_ COMPANY: Opzet
+POSITION: Web Frontend Developer _@_ COMPANY: Move agency
+POSITION: Open Source Software Developer _@_ COMPANY: Universiteit Utrecht
+POSITION: Full-stack Microsoft Developer _@_ COMPANY: Energie Data Services Nederland
+POSITION: Frontend Developer _@_ COMPANY: Gamma
+POSITION: Fullstack Developer - Compass _@_ COMPANY: Cadac Group
+POSITION: Junior Backend Progammeur _@_ COMPANY: Free for One
+POSITION: Frontend Developer _@_ COMPANY: Intramed
+Scraping Page  18
+POSITION: Software ontwikkelaar C# .NET _@_ COMPANY: Advisor Software Solutions
+POSITION: Backend Developer _@_ COMPANY: Mobiel.nl
+POSITION: Front-end Developer _@_ COMPANY: Van Ons
+POSITION: Back-end Developer _@_ COMPANY: Van Ons
+POSITION: Fullstack Software Consultant _@_ COMPANY: Xebia USA
+POSITION: Stage Backend Developer _@_ COMPANY: Berenschot
+POSITION: Front-end developer _@_ COMPANY: Blauwe Monsters
+POSITION: Backend Developer (PHP) _@_ COMPANY: Deployteq
+POSITION: Stage Front-end Developer _@_ COMPANY: Sigma Solutions NL
+POSITION: Back-end developer _@_ COMPANY: Donkey Mobile
+POSITION: FULL-STACK DEVELOPER | UTRECHT | 32-40 UUR _@_ COMPANY: Fullwood JOZ
+POSITION: Front-end Developer Zilveren Kruis _@_ COMPANY: Achmea
+POSITION: Backend Developer _@_ COMPANY: LTP Business Psychologists
+POSITION: Full stack php developer _@_ COMPANY: DPG Media
+POSITION: Cloud Native Software Developer _@_ COMPANY: Xebia USA
+Scraping Page  19
+POSITION: Vacature frontend developer _@_ COMPANY: Lotify
+POSITION: FULLSTACK PHP DEVELOPER _@_ COMPANY: Stamhuis
+POSITION: Front-end Developer 32/40 uur _@_ COMPANY: Summit Registration & Services
+POSITION: Frontend Ontwikkelaar Match-Online _@_ COMPANY: Advisor Software Solutions
+POSITION: Docent Software Developer _@_ COMPANY: ROC van Amsterdam / Flevoland
+POSITION: Software Developer _@_ COMPANY: H2B Consulting
+POSITION: Full-stack developer _@_ COMPANY: Ordina
+POSITION: Docent-coach & Expert Front-end Development bij Open-ICT _@_ COMPANY: Hogeschool Utrecht
+POSITION: Full-stack developer _@_ COMPANY: Planner 5D
+POSITION: Backend Developer _@_ COMPANY: Grip Online
+POSITION: Technisch Software Developer _@_ COMPANY: Atos
+POSITION: PHP Programmeur / Frontend Developer _@_ COMPANY: OpenSesame ICT
+POSITION: Frontend React (Native) developer _@_ COMPANY: Van der Valk
+POSITION: HBO Stage Django / Python Developer _@_ COMPANY: Go2People
+POSITION: Backend Developer _@_ COMPANY: Capsearch
+Scraping Page  20
+POSITION: PHP Backend Developer _@_ COMPANY: Reto
+POSITION: Medior Fullstack Developer ENG _@_ COMPANY: Independer
+POSITION: Full-stack C# developer _@_ COMPANY: Genetics
+POSITION: Java Developer _@_ COMPANY: CodeSquad
+POSITION: Java Developer _@_ COMPANY: Knowledge Values
+POSITION: Front-End/Full-stack Web Developer _@_ COMPANY: RiskChallenger
+POSITION: Back-end Developer _@_ COMPANY: Opzet
+POSITION: Technology Lead - Backend _@_ COMPANY: Temper
+POSITION: Medior Software Developer _@_ COMPANY: Tools4ever
+POSITION: Java Developer _@_ COMPANY: Hello Professionals
+POSITION: Magento Full-Stack Developer _@_ COMPANY: B&S
+POSITION: Full Stack Developer _@_ COMPANY: Arrow Recruitment
+POSITION: Full Stack Developer _@_ COMPANY: FreshPortal Software
+POSITION: Full-stack developer _@_ COMPANY: miWebb
+POSITION: Backend Javascript Developer _@_ COMPANY: Greenberry
+Scraping Page  21
+POSITION: Software developer (medior) _@_ COMPANY: Ambrero Software B.V.
+POSITION: Stagiair Back-End Developer _@_ COMPANY: Blue Current B.V.
+POSITION: Front-end Developer _@_ COMPANY: Luminis
+POSITION: Full Stack .NET Developer (32-40 uur) _@_ COMPANY: Onderwijs Transparant
+POSITION: Medior Fullstack Developer _@_ COMPANY: Independer
+POSITION: Softwareontwikkelaar _@_ COMPANY: ValueCare
+POSITION: Back-end developer _@_ COMPANY: Fyris Research & Data
+POSITION: Full stack developer _@_ COMPANY: Lexxyn Groep
+POSITION: Full-stack Developer _@_ COMPANY: CodeCapi
+POSITION: Back-end Java Developer _@_ COMPANY: Techniquals
+POSITION: Full Stack Developer _@_ COMPANY: Pepperflow
+POSITION: Full Stack Developer _@_ COMPANY: Nelen & Schuurmans
+POSITION: Front-End Developer _@_ COMPANY: adesso Netherlands
+POSITION: Java Developer _@_ COMPANY: ITWORK Z BV
+POSITION: Java Software Developer _@_ COMPANY: TriOpSys
+Scraping Page  22
+POSITION: Full Stack Java Developer _@_ COMPANY: Techathone
+POSITION: Java Developer _@_ COMPANY: adesso Netherlands
+POSITION: Full Stack Developer Angular _@_ COMPANY: Rabobank
+POSITION: Front end Developer _@_ COMPANY: ilionx
+POSITION: C# Full stack programmeur (nu met Welkomstbonus!) _@_ COMPANY: Autocentrum Van Vliet
+POSITION: Java Developer _@_ COMPANY: NCCW
+POSITION: Fullstack PHP Developer Alkmaar _@_ COMPANY: JK Webdesign
+POSITION: Full Stack Developer (Scala) _@_ COMPANY: Lanubia Consulting
+POSITION: Back-end Developer _@_ COMPANY: HeadFWD
+POSITION: Full-stack Developer _@_ COMPANY: MYPO
+POSITION: Full Stack Developer _@_ COMPANY: Ledch
+POSITION: Frontend Developer _@_ COMPANY: Borges
+POSITION: Full Stack Developer _@_ COMPANY: Mploy Associates
+POSITION: Front End Developer _@_ COMPANY: EENVOUD MEDIA
+POSITION: Lead Front-End Developer Javascript _@_ COMPANY: Carapax IT
+Scraping Page  23
+POSITION: Full Stack programmeur _@_ COMPANY: Van Vliet Autogroep
+POSITION: Java developer _@_ COMPANY: Topicus
+POSITION: Back-end developer _@_ COMPANY: Brightin
+POSITION: Back-end Developer (junior-medior) _@_ COMPANY: Just Internet Group
+POSITION: Full stack C# .NET Developer _@_ COMPANY: Fenetre
+POSITION: Front-end / UX Developer _@_ COMPANY: SUPERP
+POSITION: .NET Back-end Developer _@_ COMPANY: Rubicon
+POSITION: Back end developer Enovation Zaurus _@_ COMPANY: Enovation
+POSITION: Full-stack developer _@_ COMPANY: VINCI Energies
+POSITION: Back-end Developer _@_ COMPANY: Testersuite B.V.
+POSITION: Back-End Developer _@_ COMPANY: Pandora Intelligence
+POSITION: Front-end Developer _@_ COMPANY: viaBOVAG.nl
+POSITION: Medior Front-end Developer _@_ COMPANY: Sogeti
+POSITION: Frontend Developer _@_ COMPANY: LTP Business Psychologists
+POSITION: Fullstack PHP-er op locatie Amersfoort en/of Naarden _@_ COMPANY: Syntec-IT
+Scraping Page  24
+POSITION: Frontend Developer _@_ COMPANY: FIQAS Software
+POSITION: Full Stack Java Developer - Banking _@_ COMPANY: CGI Nederland
+POSITION: Software developer _@_ COMPANY: One Fox
+POSITION: Java developer - Utrecht _@_ COMPANY: NS
+POSITION: Front-end developer _@_ COMPANY: Angarde
+POSITION: Back-end developer _@_ COMPANY: xel
+POSITION: Front-end developer _@_ COMPANY: Maxx-XS
+POSITION: JAVA developer _@_ COMPANY: Meant2b
+POSITION: Fullstack Developer _@_ COMPANY: HeadFWD
+POSITION: Full Stack developer _@_ COMPANY: Websight
+POSITION: Full-stack Developer - Medior _@_ COMPANY: OPEN.nl Software Group
+POSITION: Software Developer _@_ COMPANY: Gibas
+POSITION: Full-stack Developer _@_ COMPANY: Techforce1
+POSITION: Software Developer / Programmer – OpenGL / 3D Analysis _@_ COMPANY: 3DUniversum
+POSITION: Front-end Developer _@_ COMPANY: Budget Thuis
+Scraping Page  25
+POSITION: Full-stack developer _@_ COMPANY: Second Company
+POSITION: Backend Developer _@_ COMPANY: i-Aspect
+POSITION: React (Native) Frontend Developer _@_ COMPANY: Sluijmer Multimedia
+POSITION: Full-stack Service Developer optimist _@_ COMPANY: Est Digital
+POSITION: Software Developer GIS _@_ COMPANY: Avineon | Tensing
+POSITION: Full Stack Developer Geo _@_ COMPANY: Ordina
+POSITION: Medior Back End / Full Stack PHP Developer _@_ COMPANY: PinkWeb
+POSITION: Front-end Developer _@_ COMPANY: Techforce1
+POSITION: Backend – Laravel / PHP Developer _@_ COMPANY: 2BeFresh
+POSITION: Front-end / App developer _@_ COMPANY: I&DT Software Groep
+POSITION: Software Developer Geospatial Technology _@_ COMPANY: Accenture
+POSITION: Java Developer _@_ COMPANY: ICTJobhouse
+POSITION: Back-end Developer _@_ COMPANY: Joheco automatisering
+POSITION: Medior Full-stack Developer _@_ COMPANY: One Fox
+POSITION: Medior Java Developer (full stack) _@_ COMPANY: WIS Onderwijs
+Scraping Page  26
+POSITION: Full-stack Developer _@_ COMPANY: Rubicon
+POSITION: Software ontwikkelaar _@_ COMPANY: Vegro
+POSITION: Engineering Manager - Backend _@_ COMPANY: Databricks
+POSITION: Front-end developer _@_ COMPANY: Techniquals
+POSITION: BI Consultant Front-end _@_ COMPANY: Fitch People
+POSITION: Full Stack Developer _@_ COMPANY: HumbleBuildings
+POSITION: MEDIOR BACKEND DEVELOPER _@_ COMPANY: de Internet Jongens
+POSITION: Front-end Developer _@_ COMPANY: DG ICT
+POSITION: Fullstack Java Developer _@_ COMPANY: Aquemini
+POSITION: Full-stack developer _@_ COMPANY: Accent Interactive
+POSITION: Medior Full-Stack Developer _@_ COMPANY: Purple Media
+POSITION: Back-end Developer _@_ COMPANY: Techforce1
+POSITION: Full Stack Developer _@_ COMPANY: LTP Business Psychologists
+POSITION: Front-end Developer _@_ COMPANY: HeadFWD
+POSITION: SAP BI Front-end Consultant _@_ COMPANY: Rond Consulting
+Scraping Page  27
+POSITION: Full-Stack Developer _@_ COMPANY: WDD Partner in groei
+POSITION: Digital Designer/ Front-end Developer _@_ COMPANY: Werken bij Afix
+POSITION: Full stack developer _@_ COMPANY: MavenBlue
+POSITION: Full-stack webdeveloper _@_ COMPANY: XS Provider
+POSITION: Front-end Ontwikkelaar - Publieke Veiligheid _@_ COMPANY: CGI Nederland
+POSITION: Full Stack Java Developer – Aviation _@_ COMPANY: CGI Nederland
+POSITION: Front-end Developer _@_ COMPANY: HumbleBuildings
+POSITION: Front-end developer _@_ COMPANY: Brightin
+POSITION: Full-stack Developer _@_ COMPANY: eBenefits B.V.
+POSITION: Back-end Developer _@_ COMPANY: HumbleBuildings
+POSITION: Back-end Developer _@_ COMPANY: DG ICT
+POSITION: Medior frontend developer _@_ COMPANY: E-WISE
+POSITION: Java Developer _@_ COMPANY: Oelan
+POSITION: Full stack web developer _@_ COMPANY: TalentTwist
+POSITION: Full-stack Developer _@_ COMPANY: PAQT.com BV
+Scraping Page  28
+POSITION: Full Stack PHP Developer _@_ COMPANY: SuperSales
+POSITION: Backend PHP developer _@_ COMPANY: CreditDevice
+POSITION: Full Stack Developer _@_ COMPANY: DG ICT
+POSITION: Java Developer _@_ COMPANY: ndus3
+POSITION: Full-Stack Developer _@_ COMPANY: MyBit
+POSITION: Full-stack Java Developer _@_ COMPANY: Techniquals
+POSITION: Full Stack Developer _@_ COMPANY: i-Aspect
+POSITION: Full stack Ruby developer _@_ COMPANY: WebinarGeek
+POSITION: UI/UX Frontend Designer _@_ COMPANY: i-Aspect
+POSITION: .NET Full Stack Developer _@_ COMPANY: COWMANAGER B.V.
+POSITION: Sr. Java developer (Java / Cloud / Kubernetes) _@_ COMPANY: Apollo IT
+POSITION: Backend Developer _@_ COMPANY: Adeko
+POSITION: Webdesigner/Front-end Developer _@_ COMPANY: Adeko
+POSITION: Frontend / React Developer (M/V) Fulltime _@_ COMPANY: MK² Software
+POSITION: Backend Developer _@_ COMPANY: Zig Websoftware
+Scraping Page  29
+POSITION: Backend Developer NodeJS _@_ COMPANY: Koodin
+POSITION: Backend Developer - Junior _@_ COMPANY: Wix
+POSITION: Software development Intern (front-end/ back-end) _@_ COMPANY: Openclaims
+POSITION: Software Ontwikkelaar (dienstverband/ZZP) _@_ COMPANY: Wifinity
+POSITION: Remote Full Stack Developer _@_ COMPANY: TB Social Gaming
+POSITION: Stage: Front-end en Back-end Development _@_ COMPANY: BOOSTR Agency
+POSITION: Frontend Software Developer _@_ COMPANY: Surfly
+POSITION: Front-end Developer _@_ COMPANY: The Valley
+POSITION: Frontend Developer _@_ COMPANY: Kaizo
+POSITION: Front-end Developer _@_ COMPANY: NOWATCH
+POSITION: Java Developer _@_ COMPANY: Luminis
+POSITION: Frontend Developer (React) _@_ COMPANY: Vandebron
+POSITION: Python Developer _@_ COMPANY: ilionx
+POSITION: Front-End Developer _@_ COMPANY: Pandora Intelligence
+POSITION: Frontend Developer _@_ COMPANY: Agap2 - NL
+Scraping Page  30
+POSITION: Frontend Developer React _@_ COMPANY: Koodin
+POSITION: Front End Developer _@_ COMPANY: FutureWhiz
+POSITION: Junior/Medior backend developer (PHP) _@_ COMPANY: Restau
+POSITION: Full Stack Developer - Flutter _@_ COMPANY: D-Drops World
+POSITION: Front-end developer _@_ COMPANY: FashionUnited
+POSITION: Frontend Developer _@_ COMPANY: Feel Robotics
+POSITION: Frontend Developer _@_ COMPANY: Temper
+POSITION: Frontend Developer _@_ COMPANY: KatanaPIM
+POSITION: Medior Python Developer (English speaking) _@_ COMPANY: AutoGrowth
+POSITION: Front-End Developer _@_ COMPANY: Orangebeard
+POSITION: Software Developer _@_ COMPANY: VW&S Group
+POSITION: Front-end Developer _@_ COMPANY: WoodWing
+POSITION: Intern Java Developer _@_ COMPANY: Dept
+POSITION: Backend .NET Developer _@_ COMPANY: Funda
+POSITION: Front-end Developer _@_ COMPANY: Pakketbuur
+Scraping Page  31
+POSITION: Web Frontend Developer _@_ COMPANY: Move Agency Netherlands
+POSITION: Front-end developer _@_ COMPANY: Onetribe
+POSITION: Frontend developer _@_ COMPANY: Reversed Digital
+POSITION: Junior Software Developer _@_ COMPANY: Tools4ever
+POSITION: Stagiair(e) Software Developer (#PHP/Back-end) _@_ COMPANY: Synetic
+POSITION: Front-end Developer (Next.js) _@_ COMPANY: Amsterdam Standard
+POSITION: Front-end Developer (ReactJS) _@_ COMPANY: Makerstreet
+POSITION: Front-end webdeveloper _@_ COMPANY: MyBit Group
+POSITION: Software Developer Back-end _@_ COMPANY: Openclaims
+POSITION: Back-end development stage vacature _@_ COMPANY: DTT Multimedia
+POSITION: Python Developer _@_ COMPANY: Python People
+POSITION: Front end developer _@_ COMPANY: Vattenfall
+POSITION: Junior back-end (Node.js) developer _@_ COMPANY: Coffee IT
+POSITION: front-end developer _@_ COMPANY: Muntz
+POSITION: Junior Python Developer (English speaking) _@_ COMPANY: AutoGrowth
+Scraping Page  32
+POSITION: Junior full stack software developer _@_ COMPANY: MavenBlue
+POSITION: Stage front-end developer _@_ COMPANY: SMIT
+POSITION: Passionate Java / Kotlin Developer _@_ COMPANY: Sourcelabs
+POSITION: Java Developer _@_ COMPANY: Picnic
+POSITION: Stagiair front-end development - Amsterdam _@_ COMPANY: 53 Graden Noord
+POSITION: Traineeship Front-end Development _@_ COMPANY: Social Brothers
+POSITION: Stage Full Stack Developer _@_ COMPANY: DongIT
+POSITION: Backend Engineering Team Leader _@_ COMPANY: M-KOPA
+POSITION: Intern Frontend Developer _@_ COMPANY: Dept
+POSITION: Front-end development (afstudeer)stage vacature _@_ COMPANY: DTT Multimedia
+POSITION: (Junior) Software Developer (Dutch speaker) _@_ COMPANY: Accenture
+

@@ -1,0 +1,59 @@
+<div class="property-thumbnail-item thumbnailItem col-12 col-sm-6 col-md-4 col-lg-3" itemscope="" itemtype="http://schema.org/Product">
+<div class="shell">
+<div class="thumbnail property-thumbnail-feature legacy-reset">
+<meta content="House for sale in Sainte-Adèle, Laurentides, 965 - 967, Rue des Tourterelles, 11821733 - Centris.ca" itemprop="name"/>
+
+<meta content="11821733" itemprop="sku"/>
+<a class="property-thumbnail-summary-link" href="/en/houses~for-sale~sainte-adele/11821733?view=Summary&amp;uc=1">
+<img alt="House for sale in Sainte-Adèle, Laurentides, 965 - 967, Rue des Tourterelles, 11821733 - Centris.ca" itemprop="image" src="https://mspublic.centris.ca/media.ashx?id=ADDD250DC3232A2DDDDDDDDDD4&amp;t=pi&amp;w=320&amp;h=240&amp;sm=c"/>
+</a>
+<div class="photo-buttons">
+<button class="btn photo-btn virtual-tour" onclick="addDataLayerVirtualTour('11821733', 'Gallery');Centris.OpenNewWindow('https://youtu.be/GeG_fuvN96w');" title="View virtual tour">
+                    Virtual tour<i class="icon icon-visite-virtuelle-icon"></i>
+</button>
+<button class="btn photo-btn" onclick="event.preventDefault();addDataLayerPhotoViewer(11821733, 'Gallery');initPhotoGallery('en',11821733,true, '999')" title="View photos">
+                    53<i class="far fa-camera"></i>
+</button>
+</div>
+</div>
+<a class="a-more-detail" data-mlsnumber="11821733" data-summaryurl="SummaryUrl" href="/en/houses~for-sale~sainte-adele/11821733?view=Summary&amp;uc=1">
+<div class="description">
+<div id="MlsNumberNoStealth" style="height: 1px;">
+<p style="z-index: 0; height: 3px; color: white;">11821733</p>
+</div>
+<div class="price" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+<meta content="CAD" itemprop="priceCurrency"/>
+<meta content="1275000" itemprop="price"/>
+<span>$1,275,000</span><span class="desc"></span>
+</div>
+<div class="location-container">
+<span class="category" itemprop="category">
+<div>
+                        House for sale
+                    </div>
+</span>
+<span class="address">
+<div>965 - 967, Rue des Tourterelles</div>
+<div>Sainte-Adèle</div>
+<div>Neighbourhood Mont Rolland</div>
+</span>
+</div>
+<p class="organisation-name"></p>
+<div class="d-flex justify-content-between align-items-end bottom">
+<div class="d-flex justify-content-start flex-wrap features">
+<div class="cac">4</div><div class="sdb">3</div></div>
+<div class="d-flex justify-content-end align-items-end thumbnail-icon">
+<span class="ll-match-score noAnimation" data-id="11821733" data-lat="45.94637773" data-lng="-74.11048441"></span>
+<div class="legacy-reset property-favorite property-favorite-default" data-inscription-mode="Result" data-listing-id="11821733">
+<div class="property-favorite-not-login" data-toggle="popover" data-toggle-id="redirect-tooltip-favorite">
+<a class="property-favorite-button" title="Add to my favourites">
+<i class="far fa-heart property-favorite-heart-default"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>

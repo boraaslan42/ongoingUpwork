@@ -1,0 +1,8 @@
+Price: $825,000 Address: 3950, Rue Claude-Henri-Grignon, apt. 114, Montréal (Saint-Laurent), Neighbourhood New Saint-Laurent/Bois-Franc
+Price: $319,900 Address: 4820, 4e Avenue, apt. 315, Montréal (Rosemont/La Petite-Patrie), Neighbourhood Shop Angus
+Price: $293,900 Address: 4904, Rue Sainte-Catherine Est, apt. 201, Montréal (Mercier/Hochelaga-Maisonneuve), Neighbourhood Hochelaga-Maisonneuve
+Price: $172,900 Address: Chemin Rhéaume, Sherbrooke (Brompton/Rock Forest/Saint-Élie/Deauville), Neighbourhood Saint-Élie d'Orford
+Price: $2,249,000 Address: 171, Chemin Owl's Head, Potton
+Price: $95,000 Address: Chemin Beauséjour, Rimouski, Neighbourhood Sainte-Odile
+Price: $639,000 Address: 1110, Rang Sainte-Croix, Saint-Raymond
+Price: $154,500 Address: 3635 - 3639, Rue du Roi-Georges, Saguenay (Jonquière), Neighbourhood Arvida
